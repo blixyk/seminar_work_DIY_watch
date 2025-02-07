@@ -6,6 +6,6 @@ Are you interested in history of Arduino? Do you just want to see my high school
 Well, you can...
 
 In .pdf, you can read about history of arduino and then see, how I made DIY watch using Arduino. Just don't be suprise that the watch are bigger,
-then it problably should.
+then it problably should. I choose this project by myself because it was more interesting than do the projects prepared by the teachers.
 
 It was written in Czech. 
